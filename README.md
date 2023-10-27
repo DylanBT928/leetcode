@@ -12,3 +12,5 @@ LeetCode
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./buildArrayFromPermutation.java)|Easy|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./concatenationOfArray.java)|Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./convertTheTemperature.java)|Easy|
+|2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./returnLengthOfArgumentsPassed.js)|Easy|
+
