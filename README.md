@@ -2,7 +2,7 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+### ✔️ Solved LeetCode Problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
