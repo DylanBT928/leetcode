@@ -7,6 +7,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Solutions/twoSum.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Solutions/palindroneNumber.java)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| [C++](./Solutions/containsDuplicate.cpp) | Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./Solutions/validAnagram.cpp) | Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/defangingAnIPAddress.java)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Solutions/buildArrayFromPermutation.java)|Easy|
