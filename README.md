@@ -14,6 +14,7 @@ LeetCode
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Solutions/containsDuplicate.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Solutions/validAnagram.cpp) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/defangingAnIPAddress.java) | Easy |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [MySQL](./Solutions/recyclableAndLowFatProducts.sql) | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./Solutions/signOfTheProductOfAnArray.cpp) | Easy |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Solutions/buildArrayFromPermutation.java) | Easy |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./Solutions/concatenationOfArray.java) | Easy |
