@@ -7,7 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Solutions/twoSum.java) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Solutions/twoSum.cpp), [Java](./Solutions/twoSum.java) | Easy |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Solutions/medianOfTwoSortedArrays.cpp) | Hard |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Solutions/palindroneNumber.java) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Solutions/longestConsecutiveSequence.cpp) | Medium |
