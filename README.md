@@ -15,6 +15,7 @@ LeetCode
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Solutions/Algorithms/longestConsecutiveSequence.cpp) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Solutions/Algorithms/containsDuplicate.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Solutions/Algorithms/validAnagram.cpp) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Solutions/Algorithms/missingNumber.cpp) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/Algorithms/defangingAnIPAddress.java) | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./Solutions/Algorithms/signOfTheProductOfAnArray.cpp) | Easy |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Solutions/Algorithms/buildArrayFromPermutation.java) | Easy |
