@@ -10,6 +10,7 @@ LeetCode
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./Solutions/Algorithms/twoSum.cpp), [Java](./Solutions/Algorithms/twoSum.java) | Easy |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./Solutions/Algorithms/medianOfTwoSortedArrays.cpp) | Hard |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Solutions/Algorithms/palindroneNumber.java) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Solutions/Algorithms/validParentheses.cpp) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](./Solutions/Algorithms/powx-n.cpp) | Medium |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Solutions/Algorithms/validPalindrome.cpp) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Solutions/Algorithms/longestConsecutiveSequence.cpp) | Medium |

@@ -7,10 +7,10 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_set<int> hashset;
-        for(int i = 0; i < nums.size(); i++){
-                if(hashset.find(nums[i]) != hashset.end())
+        for(int i : nums){
+                if(hashset.find(i) != hashset.end())
                     return true;
-                hashset.insert({nums[i]});
+                hashset.insert({i});
         }
         return false;
     }
