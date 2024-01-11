@@ -17,6 +17,7 @@ LeetCode
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Solutions/Algorithms/containsDuplicate.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Solutions/Algorithms/validAnagram.cpp) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Solutions/Algorithms/missingNumber.cpp) | Easy |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Solutions/Algorithms/findTheDifference.cpp) | Easy |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./Solutions/Algorithms/robotReturnToOrigin.cpp) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/Algorithms/defangingAnIPAddress.java) | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./Solutions/Algorithms/signOfTheProductOfAnArray.cpp) | Easy |
@@ -24,6 +25,7 @@ LeetCode
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./Solutions/Algorithms/concatenationOfArray.java) | Easy |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./Solutions/Algorithms/convertTheTemperature.java) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./Solutions/Algorithms/returnLengthOfArgumentsPassed.js) | Easy |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [C++](./Solutions/Algorithms/findThePeaks.cpp) | Easy |
 
 
 ## Shell
