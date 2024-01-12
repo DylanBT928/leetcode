@@ -20,6 +20,7 @@ LeetCode
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Solutions/Algorithms/findTheDifference.cpp) | Easy |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./Solutions/Algorithms/robotReturnToOrigin.cpp) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/Algorithms/defangingAnIPAddress.java) | Easy |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](./Solutions/Algorithms/findNumbersWithEvenNumberOfDigits.cpp) | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./Solutions/Algorithms/signOfTheProductOfAnArray.cpp) | Easy |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Solutions/Algorithms/buildArrayFromPermutation.java) | Easy |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./Solutions/Algorithms/concatenationOfArray.java) | Easy |
