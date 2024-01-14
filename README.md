@@ -23,7 +23,7 @@ LeetCode
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [C++](./Solutions/Algorithms/findNumbersWithEvenNumberOfDigits.cpp) | Easy |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [C++](./Solutions/Algorithms/signOfTheProductOfAnArray.cpp) | Easy |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java](./Solutions/Algorithms/buildArrayFromPermutation.java) | Easy |
-| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Java](./Solutions/Algorithms/concatenationOfArray.java) | Easy |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./Solutions/Algorithms/concatenationOfArray.cpp), [Java](./Solutions/Algorithms/concatenationOfArray.java) | Easy |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./Solutions/Algorithms/convertTheTemperature.java) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./Solutions/Algorithms/returnLengthOfArgumentsPassed.js) | Easy |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [C++](./Solutions/Algorithms/findThePeaks.cpp) | Easy |
