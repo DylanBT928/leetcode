@@ -17,6 +17,7 @@ LeetCode
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Solutions/Algorithms/containsDuplicate.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Solutions/Algorithms/validAnagram.cpp) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Solutions/Algorithms/missingNumber.cpp) | Easy |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./Solutions/Algorithms/nimGame.cpp) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./Solutions/Algorithms/findTheDifference.cpp) | Easy |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [C++](./Solutions/Algorithms/robotReturnToOrigin.cpp) | Easy |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](./Solutions/Algorithms/defangingAnIPAddress.java) | Easy |
