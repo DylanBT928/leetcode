@@ -12,9 +12,11 @@ LeetCode
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Solutions/Algorithms/palindroneNumber.java) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Solutions/Algorithms/validParentheses.cpp) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](./Solutions/Algorithms/powx-n.cpp) | Medium |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Solutions/Algorithms/maximumDepthOfBinaryTree.cpp) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Solutions/Algorithms/validPalindrome.cpp) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Solutions/Algorithms/longestConsecutiveSequence.cpp) | Medium |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./Solutions/Algorithms/containsDuplicate.cpp) | Easy |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./Solutions/Algorithms/invertBinaryTree.cpp) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C++](./Solutions/Algorithms/validAnagram.cpp) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [C++](./Solutions/Algorithms/missingNumber.cpp) | Easy |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [C++](./Solutions/Algorithms/nimGame.cpp) | Easy |
