@@ -13,6 +13,8 @@ LeetCode
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./Solutions/Algorithms/romanToInteger.cpp) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./Solutions/Algorithms/validParentheses.cpp) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [C++](./Solutions/Algorithms/powx-n.cpp) | Medium |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./Solutions/Algorithms/sortColors.cpp) | Medium |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [C++](./Solutions/Algorithms/subsets.cpp) | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./Solutions/Algorithms/maximumDepthOfBinaryTree.cpp) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./Solutions/Algorithms/validPalindrome.cpp) | Easy |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](./Solutions/Algorithms/longestConsecutiveSequence.cpp) | Medium |
