@@ -33,6 +33,7 @@ LeetCode
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [C++](./Solutions/Algorithms/concatenationOfArray.cpp), [Java](./Solutions/Algorithms/concatenationOfArray.java) | Easy |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [Java](./Solutions/Algorithms/convertTheTemperature.java) | Easy |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) | [JavaScript](./Solutions/Algorithms/returnLengthOfArgumentsPassed.js) | Easy |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [C++](./Solutions/Algorithms/findWordsContainingCharacter.cpp) | Easy |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [C++](./Solutions/Algorithms/findThePeaks.cpp) | Easy |
 
 
